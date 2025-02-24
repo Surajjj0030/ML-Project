@@ -28,7 +28,7 @@ Total Sulfur Dioxide	Total SO₂ (free + bound), used as a preservative	Float
 Density	Mass per unit volume, affects wine body	Float
 pH	Measure of acidity or alkalinity	Float
 Sulphates	Sulfur compounds contributing to antimicrobial properties	Float
-Alcohol	Alcohol content (% volume)	Float
+Alcohol	Alcohol content (% volume)	Float 
 Quality (Target Variable)	Wine quality score (scale 0–10)	Integer
 Target Variable (Quality Score) Distribution
 
